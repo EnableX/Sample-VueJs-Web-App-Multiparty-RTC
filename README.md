@@ -29,7 +29,7 @@ Visit Demo Zone (https://portal.enablex.io/demo-zone/) to request a Guided Demo 
 
 #### 3.1.2 Sample Vuejs Client
 
-* Clone or download this Repository [https://github.com/EnableX/Sample-Vuejs-App-Multiparty-RTC.git]
+* Clone or download this Repository [https://github.com/EnableX/Sample-VueJs-Web-App-Multiparty-RTC.git]
 
 
 #### 3.1.3 Sample App Server
