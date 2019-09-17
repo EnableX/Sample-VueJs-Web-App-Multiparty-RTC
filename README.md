@@ -35,10 +35,10 @@ Visit Demo Zone (https://portal.enablex.io/demo-zone/) to request a Guided Demo 
 #### 3.1.3 Sample App Server
 
 * You need to have an App server. Get any of the Repositiory listed below to setup your App Server:
-  * Laravel [https://github.com/EnableX/Sample-Laravel-Web-App-Multiparty-RTC.git]
-  * PHP     [https://github.com/EnableX/Sample-PHP-Web-App-Multiparty-RTC.git]
-  * Nodejs  [https://github.com/EnableX/Sample-Web-App-Multiparty-RTC.git]
-  * Python  [https://github.com/EnableX/Sample-Python-Web-App-Multiparty-RTC.git]
+  * Laravel [https://github.com/EnableX/Multiparty-Video-Calling-Laravel-Open-Source-Application.git]
+  * PHP     [https://github.com/EnableX/Group-Video-Call-Conferencing-Sample-Application-in-PHP.git]
+  * Nodejs  [https://github.com/EnableX/Video-Conferencing-Open-Source-Web-Application-Sample.git]
+  * Python  [https://github.com/EnableX/Group-Video-Chat-Opensource-Application-in-Python.git]
   
 * Clone or download Repository of your choice & follow the steps further
 * You need to use App ID and App Key to run this Service.
